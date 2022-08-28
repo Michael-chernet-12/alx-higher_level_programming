@@ -1,1 +1,1 @@
-python data structures
+python-data_structures
